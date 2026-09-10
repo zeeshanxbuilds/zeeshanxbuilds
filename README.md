@@ -41,6 +41,6 @@
 📫 Connect with Me
 ---
 
-* [LinkedIn](https://www.linkedin.com/in/muhammad-zeeshanbutt)
-* [Twitter](https://x.com/MZeeshanBu76308)
+* [LinkedIn](https://www.linkedin.com/in/zeeshanxbuilds)
+* [Twitter](https://x.com/ZeeshanBuilds)
 * [Email](mailto:your-mzeeshanbutt07@gmail.com)
