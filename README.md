@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Flutter+Developer+from+Pakistan;Flutter+%7C+Firebase+%7C+Andriod;Building+Scalable+Mobile+Apps;Always+Learning+New+Technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;FullStack+Developer+from+Pakistan;React+%7C+Mongo+%7C+NodeJS;Building+Scalable+Products;Always+Learning+New+Technologies!" alt="Typing SVG" />
 </div>
 
 <div align="center">
